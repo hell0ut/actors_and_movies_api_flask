@@ -11,4 +11,4 @@ Just wanted to get some practice with REST API at flask to create a flexible api
 ## Links
 
 - **Docker hub https://hub.docker.com/repository/docker/hell0ut/docker-flask_api**
-- **API LINK https://127.0.0.1:5000/api/ **
+- **API LINK https://127.0.0.1:5000/api/**
