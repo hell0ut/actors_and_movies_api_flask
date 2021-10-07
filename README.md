@@ -2,7 +2,7 @@
 
 ## What?
 Project with implemented simple postgreSQL DB with Actors, Movies and their Many-to-Many relations table. Used SQLalchemy to connect a database and manipulate objects and tables. 
-Flask was used to create REST API to CRUD Actors, Movies and their relations. Then docker was used to containerize the app.
+Flask was used to create REST API to CRUD Actors, Movies and their relations. Then docker was used to containerize the app. Also used some OOP practices of multiinheritance to prevent writing simmilar blocks of code.
 
 
 ## Why?
